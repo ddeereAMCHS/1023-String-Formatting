@@ -7,7 +7,7 @@
       "input": "",
       "output": "^The total price is \\$21\\.70\\n      19\\n-37         \\nMy favorite book is \\\".*\\\"\\nHello\\nGoodbye$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
