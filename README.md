@@ -1,6 +1,6 @@
 # String Formatting
 
-## Due: Tue 9/6 at 11:59 PM
+## Due: Wed 9/6 at 11:59 PM
 
 - Create a program called `StringFormatting.java`
 - Create a double variable that holds the value 21.7
